@@ -5,57 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3df7c41-12d5-496d-9c27-9fc6636c83c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TamGiac_4A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tuoi_5A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_10B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_10D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_11B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_11D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_12B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_13B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_13D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_14B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_14D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_15B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_15D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_1B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_1C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_1D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_2B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_2C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_3B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_3C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_4B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_4C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_4D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_5B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_5C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_5D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_6B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_6D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_7B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_7D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_8B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_8D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_9B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VD_9D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViDu_10A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViDu_11A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViDu_12A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViDu_1A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViDu_2A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViDu_3A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViDu_4A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViDu_5A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViDu_6A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViDu_7A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViDu_8A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViDu_9A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VD_10E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VD_1E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VD_2E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VD_3E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VD_4E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VD_5E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VD_6E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VD_7E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VD_8E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VD_9E.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,28 +59,38 @@
     "Application.VD_14B.executor": "Run",
     "Application.VD_14D.executor": "Run",
     "Application.VD_15B.executor": "Run",
+    "Application.VD_15D.executor": "Run",
     "Application.VD_1B.executor": "Run",
     "Application.VD_1C.executor": "Run",
     "Application.VD_1D.executor": "Run",
+    "Application.VD_1E.executor": "Run",
     "Application.VD_2C.executor": "Run",
     "Application.VD_2D.executor": "Run",
+    "Application.VD_2E.executor": "Run",
     "Application.VD_3B.executor": "Run",
     "Application.VD_3C.executor": "Run",
     "Application.VD_3D.executor": "Run",
+    "Application.VD_3E.executor": "Run",
     "Application.VD_4B.executor": "Run",
     "Application.VD_4C.executor": "Run",
     "Application.VD_4D.executor": "Run",
+    "Application.VD_4E.executor": "Run",
     "Application.VD_5B.executor": "Run",
     "Application.VD_5C.executor": "Run",
     "Application.VD_5D.executor": "Run",
+    "Application.VD_5E.executor": "Run",
     "Application.VD_6B.executor": "Run",
     "Application.VD_6D.executor": "Run",
+    "Application.VD_6E.executor": "Run",
     "Application.VD_7B.executor": "Run",
     "Application.VD_7D.executor": "Run",
+    "Application.VD_7E.executor": "Run",
     "Application.VD_8B.executor": "Run",
     "Application.VD_8D.executor": "Run",
+    "Application.VD_8E.executor": "Run",
     "Application.VD_9B.executor": "Run",
     "Application.VD_9D.executor": "Run",
+    "Application.VD_9E.executor": "Run",
     "Application.ViDu_10A.executor": "Run",
     "Application.ViDu_11A.executor": "Run",
     "Application.ViDu_12A.executor": "Run",
